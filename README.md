@@ -1,2 +1,10 @@
-# SmartFarm-AI-Driven-Crop-Monitoring-and-Management-System
- SmartFarm is an AI-powered system that helps farmers monitor and manage crops more efficiently. It uses computer vision to detect pests, diseases, and nutrient deficiencies, along with IoT sensors to monitor soil moisture, temperature, and other factors in real-time. The system provides actionable insights to improve yield and reduce waste.
+# SmartFarm: AI-Driven Crop Monitoring and Management System
+
+## Overview
+SmartFarm uses AI and IoT to help farmers monitor crop health in real-time. It detects pests, diseases, and other issues using computer vision and environmental sensors. This system helps optimize crop yield while minimizing resources and waste.
+
+## Tech Stack
+- **Backend**: Flask (Python)
+- **Machine Learning**: scikit-learn
+- **Frontend**: React.js
+- **IoT**: Sensors for soil and temperature monitoring
