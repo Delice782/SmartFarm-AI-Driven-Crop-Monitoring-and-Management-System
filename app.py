@@ -4,7 +4,7 @@ import numpy as np
 
 app = Flask(__name__)
 
-# Load pre-trained model
+# Load pre-trained model 
 with open('model/crop_health_model.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
 
