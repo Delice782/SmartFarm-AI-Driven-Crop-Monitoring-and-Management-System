@@ -1,3 +1,4 @@
+
 # SmartFarm: AI-Driven Crop Monitoring and Management System
 
 ## Overview
